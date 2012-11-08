@@ -51,7 +51,7 @@ We test our work in current versions of major desktop browsers including those m
 
 Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
 
-iOS: Safari, Google Chrome, Firefox and Opera Mini  Android 4.1: Google Chrome, Firefox and Opera Mini
+iOS: Safari, Google Chrome, Firefox and Opera Mini  Android 4.1: Google Chrome and Opera Mini
 Android 3.2: Browser, Firefox and Opera Mini
 
 We currently don’t test Blackberry OS or Blackberry QNX, Opera Mobile, Symbian or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
