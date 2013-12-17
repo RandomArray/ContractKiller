@@ -1,6 +1,11 @@
-# Contract Killer 3
- 
+# Contract Killer
+### The popular open-source contract for web designers and developers by Stuff & Nonsense
+
+Originally published: 23/12/2008
 Revised date: 15/12/2013 
+http://stuffandnonsense.co.uk/projects/contract-killer/
+________________________________________________________
+
 
 Between us [company name] 
 and you [customer name] 
