@@ -1,6 +1,6 @@
 # Contract Killer 3
  
-Revised date: 07/11/2012 
+Revised date: 15/12/2013 
 
 Between us [company name] 
 and you [customer name] 
@@ -25,7 +25,7 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 
 We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
 
-You’ll have two or more weekly opportunities to review our work and provide feedback. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+You’ll have plenty of opportunities to review our work and provide feedback. We’ll share our working Dropbox with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
 
 ### Text content 
 
@@ -37,7 +37,7 @@ You should supply graphic files in an editable, vector digital format. You shoul
 
 ### HTML, CSS and Javascript
 
-We deliver templates developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills and behaviours.
+We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills and behaviours.
 
 ### Browser testing
 
@@ -45,17 +45,16 @@ Browser testing no longer means attempting to make a website look the same in br
 
 ### Desktop browser testing
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 8 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for Internet Explorer 7 and below for Windows and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
 
 ### Mobile browser testing
 
 Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
 
-iOS: Safari, Google Chrome and Opera Mini 
- Android 4.1: Google Chrome, Firefox and Opera Mini
-Android 3.2: Browser, Firefox and Opera Mini
+iOS: Safari, Google Chrome 
+Android 4.x: Google Chrome and Firefox
 
-We currently don’t test Blackberry OS or Blackberry QNX, Opera Mobile, Symbian or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
+We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
 
 ### Technical support
 
