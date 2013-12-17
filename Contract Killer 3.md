@@ -4,7 +4,8 @@
 * Originally published: 23/12/2008
 * Revised date: 15/12/2013 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
-________________________________________________________
+
+* * *
 
 
 Between us [company name] 
