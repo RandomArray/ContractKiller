@@ -78,7 +78,7 @@ Then, when your final payment has cleared, copyright will be automatically assig
 
 You’ll own the visual elements that we create for this project. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them. 
 
-We’ll own the unique combination of these elements that constitutes a complete design and we’ll license that you, exclusively and in perpetuity for this project only, unless we agree otherwise. We can provide a separate estimate for that.
+We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
 We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
 
