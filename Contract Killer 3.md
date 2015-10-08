@@ -1,5 +1,5 @@
 # Contract Killer
-### The popular open-source contract for web designers and developers by [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
+### The popular open-source contract for web designers and developers by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
 
 * Originally published: 23/12/2008
 * Revised date: 15/12/2013 
@@ -21,7 +21,7 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 
 ## What do both parties agree to do? 
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to complete the project as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project, as and when, and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 *Us:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
 
@@ -29,13 +29,13 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 
 ### Design 
 
-We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
+We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use visuals to indicate a creative direction (colour, texture and typography.) We call that ‘atmosphere.’
 
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll share our working Dropbox with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+You’ll have plenty of opportunities to review our work and provide feedback. We’ll either share a Dropbox folder or Github repository with you and we’ll regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
 
 ### Text content 
 
-We’re not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for that.
+Unless agreed separately, we’re not responsible for inputting text or images into your content management system or creating every page on your website. We provide professional copywriting and editing services, so if you’d like us to create new content or input for you, we can provide a separate estimate for that.
 
 ### Photographs 
 
@@ -43,7 +43,7 @@ You should supply graphic files in an editable, vector digital format. You shoul
 
 ### HTML, CSS and JavaScript
 
-We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
+We deliver web page types developed from HTML markup, CSS stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
 
 ### Browser testing
 
@@ -51,16 +51,16 @@ Browser testing no longer means attempting to make a website look the same in br
 
 ### Desktop browser testing
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), Mozilla Firefox and Opera. We’ll also test to ensure that people who use Microsoft Internet Explorer 11 for Windows get an appropriate experience. We won’t test in other older browsers unless we agreed separately. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
 
 ### Mobile browser testing
 
-Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
+Testing using popular smaller screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our designs in:
 
-iOS: Safari, Google Chrome 
-Android 4.x: Google Chrome and Firefox
+iOS 9: Safari, Google Chrome
+Android: Google Chrome on Android Emulator
 
-We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
+We won’t test in Blackberry, Opera Mini/Mobile, specific Android devices, Windows or other mobile browsers unless we agreed separately. If you need us to test using these, we can provide a separate estimate for that.
 
 ### Technical support
 
@@ -68,7 +68,8 @@ We’re not a website hosting company so we don’t offer support for website ho
 
 ### Changes and revisions 
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that.
+We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the 
+number of weeks that we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for those additional weeks.
 
 ### Legal stuff 
 
@@ -86,9 +87,11 @@ You’ll own the visual elements that we create for this project. We’ll give y
 
 We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
-We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
+### Displaying our work 
 
-### Payments 
+We love to show off our work, so we reserve the right to display all aspects of our creative work, including sketches, work-in-progress designs and the completed project on our portfolio and in articles on websites, in magazine articles and in books.
+
+### Payment schedule 
 
 We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
