@@ -1,8 +1,8 @@
 # Contract Killer
 ### The popular open-source contract for web designers and developers by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
 
-* Originally published: 23/12/2008
-* Revised date: 15/12/2013 
+* Originally published: 23rd December 2008
+* Revised date: October 8th 2015 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
 
 * * *
@@ -21,7 +21,7 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 
 ## What do both parties agree to do? 
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project, as and when, and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we tell you we need to complete the project. You’ll do this when we ask and provide it in the formats we need. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 *Us:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
 
@@ -95,7 +95,13 @@ We love to show off our work, so we reserve the right to display all aspects of 
 
 We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
+[Payment details]
 [Payment schedule]
+
+
+We issue invoices electronically. Our payment terms are [number] days from the date of invoice by BACS or the SWIFT international payments system. All proposals are quoted in [currency]  and payments will be made at the equivalent conversion rate at the date the transfer is made. 
+
+You agree to pay all charges associated with international transfers of funds. The appropriate bank account details will be printed on our electronic invoice. We reserve the right to charge interest on all overdue debts at the rate of [percentage]  per month or part of a month.
 
 ### But where’s all the horrible small print? 
 
