@@ -37,7 +37,7 @@ You’ll have plenty of opportunities to review our work and provide feedback. W
 
 Unless agreed separately, we’re not responsible for inputting text or images into your content management system or creating every page on your website. We provide professional copywriting and editing services, so if you’d like us to create new content or input for you, we can provide a separate estimate for that.
 
-### Photographs 
+### Graphics and photographs 
 
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
 
@@ -64,7 +64,11 @@ We won’t test in Blackberry, Opera Mini/Mobile, specific Android devices, Wind
 
 ### Technical support
 
-We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
+We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
+
+### Search engine optimisation (SEO)
+
+We don’t guarantee improvements to your website’s search engine ranking, but the web pages that we develop are accessible to search engines.
 
 ### Changes and revisions 
 
