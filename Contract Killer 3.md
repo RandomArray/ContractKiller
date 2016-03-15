@@ -2,7 +2,7 @@
 ### The popular open-source contract for web designers and developers by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
 
 * Originally published: 23rd December 2008
-* Revised date: October 8th 2015 
+* Revised date: March 15th 2015 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
 
 * * *
@@ -18,9 +18,9 @@ We’ll always do our best to fulfil your needs and meet your expectations, but 
 
 ### So in short;
 
-You ([customer name]), located at [customer address] (“You”) are hiring us ([company name]) (“We or Us”) to:
+You [customer name], located at [customer address] (“You”) are hiring us [company name] (“We or Us”) to:
 
-- [Design and develop a web site
+- [Design and develop a web site]
 
 For the estimated total price of [total] as outlined in our previous correspondence.
 
