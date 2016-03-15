@@ -127,20 +127,18 @@ You agree to pay all charges associated with international transfers of funds. T
 
 Just like a parking ticket, neither of us can transfer this contract to anyone else without the other’s permission.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [English and Welsh] courts.
-
 We both agree that we’ll adhere to all relevant laws and regulations in relation to our activities under this contract and not cause the other to breach any relevant laws or regulations.
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of **English and Welsh** courts.
 
 Oh and don’t forget those men with big dogs.
 
 ### The dotted line 
 
-Signed by and on behalf of [company name] 
-Signed by and on behalf of [customer name] 
-Date [date]
+Signed by and on behalf of **company name**
+Signed by and on behalf of **customer name
+Date **date**
 
 Everyone should sign above and keep a copy for their records.
