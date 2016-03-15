@@ -1,5 +1,5 @@
 # Contract Killer
-### The popular open-source contract for web designers and developers by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
+### The popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
 
 * Originally published: 23rd December 2008
 * Revised date: March 15th 2015 
