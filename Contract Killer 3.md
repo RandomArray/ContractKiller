@@ -8,9 +8,9 @@
 * * *
 
 
-Between [company name]
+**Between** [company name]
 
-And [customer name].
+**And** [customer name].
 
 ### Summary:
 
@@ -18,19 +18,19 @@ We’ll always do our best to fulfil your needs and meet your expectations, but 
 
 ### So in short;
 
-You (customer name,) located at (customer address) (“You”) are hiring us (company name) (“We or Us”) to:
+You **customer name,** located at **customer address** (“You”) are hiring us **company name** (“We or Us”) to:
 
-- [Design and develop a web site]
+- **Design and develop a web site**
 
-For the estimated total price of [total] as outlined in our previous correspondence.
+For the estimated total price of **total** as outlined in our previous correspondence.
 
 Of course it’s a little more complicated, but we’ll get to that.
 
 ### What do both parties agree to?
 
-You: You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we tell you we need to complete the project. You’ll do this when we ask and provide it in the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+**You**: You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we tell you we need to complete the project. You’ll do this when we ask and provide it in the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
-Us: We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+**Us**: We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
 
 ## GETTING DOWN TO THE NITTY GRITTY
 
