@@ -115,9 +115,9 @@ We love to show off our work, so we reserve the right to display all aspects of 
 
 We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
-[Payment details]
+**Payment details**
 
-[Payment schedule]
+**Payment schedule**
 
 We issue invoices electronically. Our payment terms are [number] days from the date of invoice by BACS or the SWIFT international payments system. All proposals are quoted in [currency] and payments will be made at the equivalent conversion rate at the date the transfer is made.
 
