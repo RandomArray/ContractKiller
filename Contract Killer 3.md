@@ -2,7 +2,7 @@
 ### The popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
 
 * Originally published: 23rd December 2008
-* Revised date: March 15th 2015 
+* Revised date: March 15th 2016 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
 
 * * *
