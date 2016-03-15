@@ -18,7 +18,7 @@ We’ll always do our best to fulfil your needs and meet your expectations, but 
 
 ### So in short;
 
-You [customer name], located at [customer address] (“You”) are hiring us [company name] (“We or Us”) to:
+You (customer name,) located at (customer address) (“You”) are hiring us (company name) (“We or Us”) to:
 
 - [Design and develop a web site]
 
