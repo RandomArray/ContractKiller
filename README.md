@@ -5,15 +5,20 @@
 * Revised date: March 15th 2016 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
 * Forked as a repo from [malarkey](https://gist.github.com/malarkey)'s original Gist, [Contract Killer](https://gist.github.com/malarkey/4031110)
-* Adds a Bash script to convert this markdown document into PDF and DOC files.
-* Any modifications inside this document below the `"contract_begins_here"` hidden markup will be included in conversion.
+* Adds a Bash script to replace variables and convert this markdown document into PDF and DOC files.
+* **Edit `create-docs.sh` and update the variables with your company name, etc...**
+* Requires pandoc for Word docx document generation. `apt-get install pandoc`
+* Required texlive for PDF file generation. `apt-get install texlive`
+* Any modifications inside `README.md`, that are below the hidden markup containing "contract_begins_here", will be included in the conversion.
 
 * * *
 [//]: # "begin_document_below"
 
-**Between** [company name]
+# Website Design Contract
 
-**And** [customer name].
+**Between** company_name_here
+
+**And** customer_name_here
 
 ### Summary:
 
@@ -21,11 +26,11 @@ We’ll always do our best to fulfil your needs and meet your expectations, but 
 
 ### So in short;
 
-You **customer name,** located at **customer address** (“You”) are hiring us **company name** (“We or Us”) to:
+You **customer_name_here,** located at **customer_address_here** (“You”) are hiring us **company_name_here** (“We or Us”) to:
 
 - **Design and develop a web site**
 
-For the estimated total price of **total** as outlined in our previous correspondence.
+For the estimated total price of $**total_amount_here** as outlined in our previous correspondence.
 
 Of course it’s a little more complicated, but we’ll get to that.
 
@@ -67,8 +72,8 @@ We test our work in current versions of major desktop browsers including those m
 
 Mobile browser testing Testing using popular smaller screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our designs in:
 
-iOS 9: Safari, Google Chrome
-Android: Google Chrome on Android Emulator
+* iOS 9: Safari, Google Chrome
+* Android: Google Chrome on Android Emulator
 
 We won’t test in Blackberry, Opera Mini/Mobile, specific Android devices, Windows or other mobile browsers unless we agreed separately. If you need us to test using these, we can provide a separate estimate for that.
 
@@ -94,13 +99,9 @@ Your liability to us will also be limited to the amount of fees payable under th
 
 Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-Phew.
-
 ### Intellectual property rights
 
 Just to be clear, “Intellectual property rights” means all patents, rights to inventions, copyright (including rights in software) and related rights, trademarks, service marks, get up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information (including know-how) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
-
-Blimey.
 
 First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them. When you provide text, images or other artwork to us, you agree to protect us from any claim by a third party that we’re using their intellectual property.
 
@@ -118,13 +119,15 @@ We love to show off our work, so we reserve the right to display all aspects of 
 
 We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
-**Payment details**
+### Payment details
 
-**Payment schedule**
+We issue invoices electronically. Our payment terms are **payment_number_days** days from the date of invoice. 
 
-We issue invoices electronically. Our payment terms are [number] days from the date of invoice by BACS or the SWIFT international payments system. All proposals are quoted in [currency] and payments will be made at the equivalent conversion rate at the date the transfer is made.
+All proposals are quoted in **quote_currency_type** and payments will be made at the equivalent conversion rate at the date the payment or transfer is made. 
 
-You agree to pay all charges associated with international transfers of funds. The appropriate bank account details will be printed on our electronic invoice. We reserve the right to charge interest on all overdue debts at the rate of [percentage] per month or part of a month.
+Payments must be made via cash, check made payable to **company_name_here**, debit/credit via Paypal or Stripe, or money order.
+
+You agree to pay all charges associated with international transfers of funds. The appropriate bank account details will be printed on our electronic invoice. We reserve the right to charge interest on all overdue debts at the rate of **overdue_percentage%** per month or part of a month.
 
 ### But where’s all the horrible small print?
 
@@ -134,14 +137,42 @@ We both agree that we’ll adhere to all relevant laws and regulations in relati
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of **English and Welsh** courts.
+Although the language is simple, this agreement shall be governed, construed, and enforced in accordance with the laws of the State of **governing_law_state**, without regard to its conflict of laws rules.
 
-Oh and don’t forget those men with big dogs.
+### The dotted line
 
-### The dotted line 
 
-Signed by and on behalf of **company name**
-Signed by and on behalf of **customer name
-Date **date**
+#### Signed by and on behalf of **company_name_here**
 
-Everyone should sign above and keep a copy for their records.
+.  \
+.  \
+.  \
+.  \
+.  \
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Signed by and on behalf of **customer_name_here**
+
+.  \
+.  \
+.  \
+.  \
+.  \
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Date:
+
+.  \
+.  \
+.  \
+.  \
+.  \
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+\
+
+**Everyone should sign above and keep a copy for their records.**
+
