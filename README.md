@@ -4,7 +4,7 @@
 * Originally published: 23rd December 2008
 * Revised date: March 15th 2016 
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
-* Gist forked as a repo from [malarkey](https://gist.github.com/malarkey)'s [Contract Killer](https://gist.github.com/malarkey/4031110)
+* Forked as a repo from [malarkey](https://gist.github.com/malarkey)'s original Gist, [Contract Killer](https://gist.github.com/malarkey/4031110)
 * Adds a Bash script to convert this markdown document into PDF and DOC files.
 * Any modifications inside this document below the `"contract_begins_here"` hidden markup will be included in conversion.
 
