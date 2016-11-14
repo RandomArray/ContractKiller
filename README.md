@@ -1,15 +1,30 @@
-# Contract Killer
-### The popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
+# Contract Killer - Auto Generator
+### A modifed version of the popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
+
+#### Adds automatic variable replacement, PDF generation, and Word docx generation
 
 * Originally published: 23rd December 2008
-* Revised date: March 15th 2016 
+* Revised date: November 14th 2016
 * [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
 * Forked as a repo from [malarkey](https://gist.github.com/malarkey)'s original Gist, [Contract Killer](https://gist.github.com/malarkey/4031110)
 * Adds a Bash script to replace variables and convert this markdown document into PDF and DOC files.
+* Any modifications inside this `README.md`, that are below the hidden markup containing `contract_begins_here`, will be included in the conversion.
+
+### Setup 
+
 * **Edit `create-docs.sh` and update the variables with your company name, etc...**
-* Requires pandoc for Word docx document generation. `apt-get install pandoc`
-* Required texlive for PDF file generation. `apt-get install texlive`
-* Any modifications inside `README.md`, that are below the hidden markup containing "contract_begins_here", will be included in the conversion.
+* Install pandoc and texlive for docx and PDF generation.
+* `sudo apt-get update`
+* `sudo apt-get install pandoc`
+* `sudo apt-get install texlive`
+
+### Usage
+
+`./create-docs.sh <customer-company-name> <customer-address> <total-amount>`
+
+### Example
+
+`./create-docs.sh "Al's Service Shop" "123 Main St., Anytown, US, 12345" 3200`
 
 * * *
 [//]: # "begin_document_below"
